@@ -7,4 +7,3 @@ def is_palindrome_recursive(w, li, hi):
         return True
     else:
         return is_palindrome_recursive(w, li + 1, hi - 1)
-

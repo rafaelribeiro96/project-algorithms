@@ -8,4 +8,3 @@ def study_schedule(per, tm):
         if start <= tm <= out:
             set_count += 1
     return set_count
-
