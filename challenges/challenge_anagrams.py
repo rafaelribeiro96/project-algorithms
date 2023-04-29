@@ -1,3 +1,3 @@
-def is_anagram(first_string, second_string):
+def is_anagram(str1, str2):
     """Faça o código aqui."""
     raise NotImplementedError
